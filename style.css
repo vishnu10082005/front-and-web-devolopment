@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Tilt+Prism&display=swap');
+
+body{
+
+background-color: brown;
+     
+    font-family: 'Tilt Prism', cursive;
+}
+img{
+
+    width: 500px;
+    height: 300px;
+}
+
+h1 {
+    text-align: justify ;
+}
